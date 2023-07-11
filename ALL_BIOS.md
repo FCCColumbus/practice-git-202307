@@ -6,5 +6,5 @@ Instructions: Please add your bio to the team below.  Be creative!  We want to k
 
 ## [John Riley](john-riley.md)
 
-## [Rhea Supekar](rhea-supekar.md)</font>
+## [Rhea Supekar](rhea-supekar.md)
 ---------
