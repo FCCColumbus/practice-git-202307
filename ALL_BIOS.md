@@ -11,4 +11,3 @@ Instructions: Please add your bio to the team below.  Be creative!  We want to k
 ## [Milton Krauss](milton-krauss.md)
 
 ## [Giuseppe C.](giuseppe-c.md)
----------
